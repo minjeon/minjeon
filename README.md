@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minjeong's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20My%20Github%20Profile&descAlignY=60&descAlign=72"/>
+</p>
 
-<div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Minjeong's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Minjeong's GitHub">
-    </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> <a href=https://blog.naver.com/minjeung1224> <img src="https://img.shields.io/badge/Blog-009000?style=for-the-badge&logo=Blog&logoColor=white&link=https://blog.naver.com/minjeung1224"> </a>
@@ -37,8 +37,6 @@ Here are some ideas to get you started:
           </div>
     </div><br>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    
-![Minjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjeon&show_icons=true&theme=radical)    
+   
 
 <br>
