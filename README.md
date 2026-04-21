@@ -15,6 +15,7 @@
 
 ## 🏆 Certifications
 ![ADsP](https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=flat-square&logo=target)
+![SQLD](https://img.shields.io/badge/SQLD-SQL%20개발자-blue?style=flat-square&logo=target)
 
 <br>
 
