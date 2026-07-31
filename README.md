@@ -9,7 +9,7 @@
 <br>
 🎓 전자정보통신공학 전공 (2025.02 졸업)
 <br>
-💼 SK Networks Family AI Camp 수료 | Gmission 인턴 재직 중
+💼 SK Networks Family AI Camp 수료 | Gmission 재직 중
 
 <br>
 
